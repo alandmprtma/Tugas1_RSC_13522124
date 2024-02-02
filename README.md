@@ -103,3 +103,15 @@ Tugas1_RSC_13522124
 │  └─ Bonus.pdf
 └─ README.md
 ```
+
+## Screenshots
+
+<div align="center">
+  <img src="No1.png" alt="Nomor 1" width="750"/>
+  <p><i>Uji Coba Program Nomor 1</i></p>
+</div>
+
+<div align="center">
+  <img src="No2.png" alt="Nomor 2" width="750"/>
+  <p><i>Uji Coba Program Nomor 2</i></p>
+</div>
